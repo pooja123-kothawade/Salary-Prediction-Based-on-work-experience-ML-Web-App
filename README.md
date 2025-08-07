@@ -107,14 +107,10 @@ This project predicts the salary of an employee based on their years of experien
 
 **Pooja Kothawade**
 📧 [kothawadapooja25@gmail.com](mailto:kothawadapooja25@gmail.com)
-🌐 [GitHub](https://github.com/pooja123-kothawade) | [LinkedIn](https://www.linkedin.com/in/pooja-kothawade/)
+🌐 [GitHub](https://github.com/pooja123-kothawade) | [LinkedIn](https://www.linkedin.com/in/pooja-kothawade-techpro/)
 
 ---
 
 
 ```
 
----
-
-Let me know if you'd like this in a downloadable `.md` file or want to enhance it with a **live demo badge**, **API endpoints description**, or **Docker setup**.
-```
