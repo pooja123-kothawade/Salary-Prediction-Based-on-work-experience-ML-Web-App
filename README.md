@@ -25,14 +25,7 @@ This project predicts the salary of an employee based on their years of experien
 
 ```
 
-├── assets/                 # Image or style assets
-├── static/                 # Static files (CSS, JS)
-├── templates/              # HTML files (index.html, result.html, etc.)
-├── Salary\_Data.csv         # Dataset used for training
-├── model.py                # Model training and serialization
-├── app.py                  # Flask app with routing and API logic
-├── request.py              # Script to send API requests
-├── requirements.txt        # List of dependencies
+
 
 ````
 
