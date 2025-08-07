@@ -118,9 +118,6 @@ This project predicts the salary of an employee based on their years of experien
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ```
 
