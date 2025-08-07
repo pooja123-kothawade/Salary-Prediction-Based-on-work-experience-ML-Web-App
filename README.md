@@ -1,7 +1,7 @@
 
 Procedure--
 Open command Prompt and go to given directory and then run python app.py
-Here's a polished and professional `README.md` for your **WageWatcher - Flask Salary Predictor** project, based on the structure in your screenshot:
+**WageWatcher - Flask Salary Predictor** project, based on the structure in your screenshot:
 
 ---
 
